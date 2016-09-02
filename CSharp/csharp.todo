@@ -1,0 +1,11 @@
+Chsarp:
+    ☐ Ref
+    ☐ Generic ISeed<T>
+    ☐ História do decimal
+    ☐ Event @low 
+    ☐ Delegate @low 
+    ☐ Criação de interfaces
+    ☐ Linq
+    ☐ Padrões de projeto
+        ☐ Coesão (Tentar colocar na classe o que pertence a ela)
+        ☐ Baixo acoplamento

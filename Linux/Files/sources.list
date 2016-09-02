@@ -1,0 +1,29 @@
+#Original
+deb http://ftp.br.debian.org/debian/ jessie main
+deb-src http://ftp.br.debian.org/debian/ jessie main
+
+deb http://security.debian.org/ jessie/updates main
+deb-src http://security.debian.org/ jessie/updates main
+
+# jessie-updates, previously known as 'volatile'
+deb http://ftp.br.debian.org/debian/ jessie-updates main
+deb-src http://ftp.br.debian.org/debian/ jessie-updates main
+
+# jessie-backports, previously on backports.debian.org
+deb http://ftp.br.debian.org/debian/ jessie-backports main
+deb-src http://ftp.br.debian.org/debian/ jessie-backports main
+
+#non-free
+deb http://ftp.br.debian.org/debian/ jessie non-free
+deb-src http://ftp.br.debian.org/debian/ jessie non-free
+
+#debian-multimedia
+#deb http://ftp.br.debian.org/debian-multimedia testing main
+#deb-src http://ftp.br.debian.org/debian-multimedia testing main
+
+#mint linux
+deb http://packages.linuxmint.com debian import
+
+#Testing
+deb http://ftp.br.debian.org/debian/ testing main non-free
+deb-src http://ftp.br.debian.org/debian/ testing main non-free
