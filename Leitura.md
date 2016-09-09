@@ -1,0 +1,2 @@
+O segredo para obter-se a melhor chance de êxito em qual quer coisa que deseja é ser simples! **Seja Simples!**
+**Ser simples** é ignorar todas as coisas que você *poderia fazer*, preocupando-se com o que *deve fazer*, compreender que **resultados extraordinários são diretamente determinados por quão específico você pode tornar seu foco**

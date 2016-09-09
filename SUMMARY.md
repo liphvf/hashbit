@@ -49,3 +49,4 @@
 * [Progress](Progress.md)
 * [Recommendations](Recommendations.md)
 * [Dicas](Dicas.md)
+* [Leitura](Leitura.md)
