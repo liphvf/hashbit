@@ -46,6 +46,7 @@
     * [Virtualenv](Python/Virtualenv.md)
 * [VIM](VIM/VIM.md)
 * [Docker](Virtualization/Docker.md)
+* [Tests](Tests.md)
 * [Progress](Progress.md)
 * [Recommendations](Recommendations.md)
 * [Dicas](Dicas.md)
