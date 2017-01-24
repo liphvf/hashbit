@@ -11,6 +11,8 @@ https://channel9.msdn.com/VisualStudio
 - Buscar Classes: `Ctrl+,`
 - Comentar código: `Ctrl+K, C`
 - Descomentar Código: `Ctrl+K, U`
+- Rodar snippet em cima de uma seleção: Seleciona o texto e `Ctrl+K, S`
+- Andar por bloco de codigos (`{ }`): `Ctrl+[`
 
 # Code Snippet
 - Criar construtor: `ctor` 
