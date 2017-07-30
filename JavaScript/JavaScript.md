@@ -246,6 +246,7 @@ CodeCademy > JavaScript: The Good Parts >
 - [CodeSchool](https://www.codeschool.com/paths/javascript) : "Exelente curso Pago"
 - [Platzi](https://courses.platzi.com/) : "Curso do Frame Work Sails.js e mais"
 - [FontEndMasters](https://frontendmasters.com/)
+- [egghead](https://egghead.io/courses)
 
 ## Fontes:
 - [E-mail News](http://javascriptweekly.com/) : "Google de javascript, envia por e-mail noticias toda semana."
@@ -290,6 +291,10 @@ Extras: [TypeOff](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Refere
 - [Resilient Web Design](https://resilientwebdesign.com/)
 - [Designer Better Forms](https://uxdesign.cc/design-better-forms-96fadca0f49c)
 - [Tudo que precisa saber sobre Emoji](https://www.smashingmagazine.com/2016/11/character-sets-encoding-emoji/?utm_source=ponyfoo+weekly&utm_medium=email&utm_campaign=issue-38)
+- [Types do typescript](https://www.npmjs.com/~types)
+- [Guia para contribuição OpenSource](https://opensource.guide/)
+- [ngrok](https://ngrok.com/) : Criar tunnel seguro para demonstrar sua aplicação
+
 
 ## CSS:
 - [Css Reference](http://cssreference.io/) : Contem um dicionário de referencias para CSS. #Toolbox
@@ -299,3 +304,5 @@ Extras: [TypeOff](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Refere
 - [5 Common Mistakes Designers Make When Using Cards In Design](http://zurb.com/blog/5-common-mistakes-designers-make-when-usi)
 - [Learning from Lego: A Step Forward in Modular Web Design](https://alistapart.com/article/learning-from-lego-a-step-forward-in-modular-web-design?utm_source=ponyfoo+weekly&utm_medium=email&utm_campaign=issue-43)
 - [Ultimate Guide to Non-Rectangular Headers](https://codepen.io/ahmadnassri/post/non-rectangular-headers-part-1)
+- [How Flexbox works — explained with big, colorful, animated gifs](https://medium.freecodecamp.org/an-animated-guide-to-flexbox-d280cf6afc35)
+- [Front-End Developer Handbook 2017](https://frontendmasters.com/books/front-end-handbook/2017/) # Tollbox

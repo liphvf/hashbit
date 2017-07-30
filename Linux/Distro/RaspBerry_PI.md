@@ -337,3 +337,6 @@ hello: started
 
 ## Games:
 [Libretro](http://www.libretro.com/) [Retro-pie](https://github.com/petrockblog/RetroPie-Setup)
+
+## Gravar imanges no SDCARD ou Pendrive:
+- [etcher](https://etcher.io/)
