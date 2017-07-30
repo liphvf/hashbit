@@ -245,6 +245,7 @@ CodeCademy > JavaScript: The Good Parts >
 - [CodeCademy](http://www.codecademy.com/pt/tracks/javascript) : "Melhor Curso para começar"
 - [CodeSchool](https://www.codeschool.com/paths/javascript) : "Exelente curso Pago"
 - [Platzi](https://courses.platzi.com/) : "Curso do Frame Work Sails.js e mais"
+- [FontEndMasters](https://frontendmasters.com/)
 
 ## Fontes:
 - [E-mail News](http://javascriptweekly.com/) : "Google de javascript, envia por e-mail noticias toda semana."
@@ -282,3 +283,19 @@ Extras: [TypeOff](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Refere
 
 # Javascript for mobile:
 [Fuse](https://www.fusetools.com/)
+
+# Leituras:
+
+- [SuperHeroJs](http://superherojs.com/)
+- [Resilient Web Design](https://resilientwebdesign.com/)
+- [Designer Better Forms](https://uxdesign.cc/design-better-forms-96fadca0f49c)
+- [Tudo que precisa saber sobre Emoji](https://www.smashingmagazine.com/2016/11/character-sets-encoding-emoji/?utm_source=ponyfoo+weekly&utm_medium=email&utm_campaign=issue-38)
+
+## CSS:
+- [Css Reference](http://cssreference.io/) : Contem um dicionário de referencias para CSS. #Toolbox
+- [Flexbox Patterns](http://www.flexboxpatterns.com) : Site para refenrência do padrão FlexBox. # Tollbox
+- [8 simple rules for a robust, scalable CSS architecture](https://github.com/jareware/css-architecture/blob/c683e60959895fa824bac048f73f2bd10a5fc46e/README.md?utm_source=ponyfoo+weekly&utm_medium=email&utm_campaign=issue-36)
+- [SVG](https://www.sarasoueidan.com/blog/icon-fonts-to-svg/?utm_source=ponyfoo+weekly&utm_medium=email&utm_campaign=issue-44)
+- [5 Common Mistakes Designers Make When Using Cards In Design](http://zurb.com/blog/5-common-mistakes-designers-make-when-usi)
+- [Learning from Lego: A Step Forward in Modular Web Design](https://alistapart.com/article/learning-from-lego-a-step-forward-in-modular-web-design?utm_source=ponyfoo+weekly&utm_medium=email&utm_campaign=issue-43)
+- [Ultimate Guide to Non-Rectangular Headers](https://codepen.io/ahmadnassri/post/non-rectangular-headers-part-1)
